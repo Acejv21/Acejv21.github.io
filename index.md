@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+# Anthony J. Ventura
 
-You can use the [editor on GitHub](https://github.com/Acejv21/Acejv21.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Business Analytics / Data Science 
+## College of William & Mary, Class of 21': 
+### U.S. Navy Veteran
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
