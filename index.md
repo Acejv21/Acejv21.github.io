@@ -1,4 +1,4 @@
-![Image](src)
+    ![Image](IMG_0499 - Copy_Easy-Resize.com)
 # Anthony J. Ventura
 
 ## Business Analytics / Data Science 
