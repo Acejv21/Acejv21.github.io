@@ -1,4 +1,4 @@
-    ![My Picture](https://raw.githubusercontent.com/Acejv21/Acejv21.github.io/master/IMG_0499%20-%20Copy_Easy-Resize.com.jpg)
+![My Picture](https://raw.githubusercontent.com/Acejv21/Acejv21.github.io/master/IMG_0499%20-%20Copy_Easy-Resize.com.jpg)
 
 # Anthony J. Ventura
 
