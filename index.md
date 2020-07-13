@@ -1,4 +1,5 @@
-    ![IMG_0499 - Copy_Easy-Resize.com](src)
+    ![IMG_0499 - Copy_Easy-Resize com](https://user-images.githubusercontent.com/67920507/87266994-88599e80-c494-11ea-80e8-2c96cebc4916.jpg)
+
 # Anthony J. Ventura
 
 ## Business Analytics / Data Science 
