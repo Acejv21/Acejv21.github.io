@@ -4,16 +4,16 @@ You can use the [editor on GitHub](https://github.com/Acejv21/Acejv21.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Anthony J. Ventura 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Business Analytics / Data Science 
+## College of William & Mary, Class of 21': 
+### U.S. Navy Veteran
 
 - Bulleted
 - List
